@@ -1,6 +1,6 @@
 ## Hello and thank you for visiting!👋
 
-I'm Jake Currie, a spatial data analyst, data engineer, and student. I enjoy building enriched datesets from various sources to facilitate efficient analysis.
+I'm Jake Currie, a spatial data analyst, data engineer, and continuous student of data techonologies. I enjoy building enriched datesets from various sources to facilitate efficient analysis and visualization.
 
 ### Technologies and Tools I use:
 - Languages: **Python**, **SQL**, **PL/pgSQL**, **JavaScript**
